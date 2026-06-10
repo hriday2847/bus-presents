@@ -54,8 +54,8 @@ export const DIVINITIES: Divinity[] = [
     rating: "9.1",
     duration: "145 min",
     relDate: "October 2026",
-    backdropUrl: "https://images.unsplash.com/photo-1545128485-c400e7702796?q=80&w=1600&auto=format&fit=crop",
-    apparitionUrl: "https://images.unsplash.com/photo-1561361531-fa36c4b267ca?q=80&w=600&auto=format&fit=crop",
+    backdropUrl: "",
+    apparitionUrl: "",
     about: "Mataji personifies Adi Parashakti, the mother of all universes. Merging ultimate strength (Veera) with unparalleled tenderness (Karuna), she descends to protect visual harmony, dissolve darkness, and answer the sincere prayers of her children instantly.",
     stories: [
       {
@@ -93,8 +93,8 @@ export const DIVINITIES: Divinity[] = [
     rating: "9.3",
     duration: "160 min",
     relDate: "December 2026",
-    backdropUrl: "https://images.unsplash.com/photo-1590073844006-33379778ae09?q=80&w=1600&auto=format&fit=crop",
-    apparitionUrl: "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?q=80&w=600&auto=format&fit=crop",
+    backdropUrl: "",
+    apparitionUrl: "",
     about: "Lord Venkateswara Balaji of Tirupati stands as the preserver of cosmic order. Renowned for fulfilling the desires of all who call upon his name, Balaji resides on the seven sacred hills (Saptagiri), radiating supreme comfort and infinite divine prosperity.",
     stories: [
       {
@@ -133,7 +133,7 @@ export const DIVINITIES: Divinity[] = [
     duration: "115 min",
     relDate: "March 2026",
     backdropUrl: "https://images.unsplash.com/photo-1518199266791-5375a83190b7?q=80&w=1600&auto=format&fit=crop",
-    apparitionUrl: "https://images.unsplash.com/photo-1544005313-94ddf0286df2?q=80&w=600&auto=format&fit=crop",
+    apparitionUrl: "",
     about: "Maasa is the physical embodiment of the ancient, sacred tradition of maternal lineage. Operating mostly in absolute silence, she performs countless silent miracles of emotional healing, calming chaotic minds, and feeding the hungry with endless love.",
     stories: [
       {
