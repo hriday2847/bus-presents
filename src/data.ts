@@ -132,7 +132,7 @@ export const DIVINITIES: Divinity[] = [
     rating: "8.9",
     duration: "115 min",
     relDate: "March 2026",
-    backdropUrl: "https://images.unsplash.com/photo-1518199266791-5375a83190b7?q=80&w=1600&auto=format&fit=crop",
+    backdropUrl: "",
     apparitionUrl: "",
     about: "Maasa is the physical embodiment of the ancient, sacred tradition of maternal lineage. Operating mostly in absolute silence, she performs countless silent miracles of emotional healing, calming chaotic minds, and feeding the hungry with endless love.",
     stories: [
